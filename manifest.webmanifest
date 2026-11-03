@@ -1,0 +1,19 @@
+{
+  "name": "Irish Theory BR — Carro e Trator (BW)",
+  "short_name": "Irish Theory BR",
+  "description": "Preparatório independente bilíngue para a prova teórica BW na Irlanda.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f3f6f5",
+  "theme_color": "#103e42",
+  "lang": "pt-BR",
+  "icons": [
+    {
+      "src": "./icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
